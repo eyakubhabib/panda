@@ -1,0 +1,26 @@
+.site-cus{
+    background-color: #FEEAE9;
+    border-radius: 20px;
+    padding: 20px 50px;
+}
+
+.sit-img-cus img{
+   width: 50%;
+}
+.cata-cust,.cata-cust3{
+    background-color: rgb(255 35 122);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;    
+}
+.cata-cust2{
+    background-color: #88bf3f;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;   
+}
+.btm-cust{
+    background-color: #feeae9;
+    border-radius: 10px;
+    margin: 30px;
+}
